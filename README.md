@@ -66,6 +66,4 @@ PAYMENTS:
 Maria - $ 1000.00
 João - $ 2300.00
 
-less
-Copiar
-Editar
+
