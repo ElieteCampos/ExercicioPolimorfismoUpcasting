@@ -48,22 +48,22 @@ Com base nas respostas, o sistema cria um objeto `Employee` ou `OutsourcedEmploy
 
 ## 💻 Exemplo de Execução
 
-Enter the number of employees: 2
-Employee #1 data:
-Outsourced (y/n)? n
-Name: Maria
-Hours: 40
-Value per hour: 25.00
+- Enter the number of employees: 2
+- Employee #1 data:
+- Outsourced (y/n)? n
+- Name: Maria
+- Hours: 40
+- Value per hour: 25.00
 
-Employee #2 data:
-Outsourced (y/n)? y
-Name: João
-Hours: 60
-Value per hour: 30.00
-Additional charge: 200.00
+- Employee #2 data:
+- Outsourced (y/n)? y
+- Name: João
+- Hours: 60
+- Value per hour: 30.00
+- Additional charge: 200.00
 
-PAYMENTS:
-Maria - $ 1000.00
-João - $ 2300.00
+- PAYMENTS:
+- Maria - $ 1000.00
+- João - $ 2300.00
 
 
